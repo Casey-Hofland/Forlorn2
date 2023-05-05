@@ -1,0 +1,6 @@
+[submodule "Packages/UnityClock"]
+	path = Packages/UnityClock
+	url = https://github.com/Casey-Hofland/UnityClock.git
+[submodule "Packages/UnityExtras"]
+	path = Packages/UnityExtras
+	url = https://github.com/Casey-Hofland/UnityExtras.git
